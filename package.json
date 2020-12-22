@@ -1,7 +1,7 @@
 {
   "name": "kc-ddel",
   "version": "1.0.8",
-  "description": "[NodeJS] Delete directory recursively",
+  "description": "[nodejs] Delete directory recursively",
   "main": "index.js",
   "repository": {
     "type": "git",

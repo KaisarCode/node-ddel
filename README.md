@@ -1,5 +1,5 @@
-# DDel [NodeJS]
-Delete directory recursively
+# DDel
+[nodejs] Delete directory recursively
 
 ### Install
 ```
