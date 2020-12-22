@@ -1,6 +1,6 @@
 {
   "name": "kc-ddel",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "[nodejs] Delete directory recursively",
   "main": "index.js",
   "repository": {
